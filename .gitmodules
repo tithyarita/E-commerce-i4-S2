@@ -1,0 +1,6 @@
+[submodule "nestjs-todo"]
+	path = nestjs-todo
+	url = https://github.com/thavorac/gic2024.git
+[submodule "todo-client"]
+	path = todo-client
+	url = https://github.com/thavorac/gic2024.git
